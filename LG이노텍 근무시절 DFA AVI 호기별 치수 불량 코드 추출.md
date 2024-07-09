@@ -1,6 +1,3 @@
-# -
-LG이노텍 근무시절 DFA AVI 호기별 치수 불량 코드 추출
-
 import os
 import pandas as pd
 
